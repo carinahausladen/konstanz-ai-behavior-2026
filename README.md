@@ -9,6 +9,10 @@
 
 ## 📅 Schedule
 
+- **Session 1:** 10:00 – 11:30  
+- **Optional Lunch Together:** 11:30 – 12:30  
+- **Session 2:** 12:30 – 14:00  
+
 | Date   | Sessions | Focus / Topic |
 |--------|----------|---------------|
 | 09.01. | 2        | [Topic 1: Bias and Fairness in LLMs / VLMs](topics/topic1.md)|
