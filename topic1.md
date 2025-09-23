@@ -1,5 +1,8 @@
 # Bias and Fairness in LLMs / VLMs
 
+Large language and vision–language models are increasingly used in settings where their outputs can reflect and amplify human stereotypes. Studying bias in these models is interesting because it connects technical tools like embeddings and cosine similarity with psychological theories of social perception such as warmth and competence. This topic helps us see how abstract vectors in embedding space can reveal patterns of unfairness, and how operationalizing social science theories in AI evaluation offers a bridge between human-centered concerns and machine learning methods.
+
+
 ---
 
 ## 🔑 Core Concepts
