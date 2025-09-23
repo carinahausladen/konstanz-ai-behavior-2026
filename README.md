@@ -15,10 +15,10 @@
 
 | Date   | Sessions | Focus / Topic |
 |--------|----------|---------------|
-| 09.01. | 2        | [Topic 1: Bias and Fairness in LLMs / VLMs](topics/topic1.md)|
-| 16.01. | 2        | Topic 2: Social Choice and LLM Alignment |
-| 23.01. | 2        | Topic 3: Reinforcement Learning for Social Dilemma Settings |
-| 30.01. | 2        | Topic 4: Finding Patterns in Multidimensional Behavioral Timeseries |
+| 09.01. | 2        | [Topic 1: Bias and Fairness in LLMs / VLMs](topic1.md)|
+| 16.01. | 2        | [Topic 2: Social Choice and LLM Alignment](topic3.md)| 
+| 23.01. | 2        | [Topic 3: Reinforcement Learning for Social Dilemma Setting](topic2.md)| |
+| 30.01. | 2        | [Topic 4: Finding Patterns in Multidimensional Behavioral Timeseries](topic4.md)| 
 | 06.02. | 1–2      | Project pitches (approx. 20 min per group) |
 | 09.02. | 1        | Code Clinic |
 | 10.02. | 1        | Writing Clinic |
@@ -73,18 +73,44 @@ By the end of the course, students will be able to:
 ## 📊 Activities & Assessment
 
 1. **Reading Responses (not graded)**  
-   - Weekly, ~300 words per assigned reading.  
-   - Focus on key contributions & possible extensions (not just summaries).  
+The purpose of these short responses is to help you truly understand each paper and engage with it critically. A good response should:  
 
-2. **Discussant Role (30%)**  
-   - Prepare 3–5 slides synthesizing the paper and peer responses.  
-   - 10-minute presentation + 5 minutes leading discussion with prompts.  
+- **Summarize** the paper in your own words (what is the core idea or contribution?).  
+- **Open questions**: What questions would you like to ask the discussant or the authors?  
+- **Personal connection**: Is this a topic you might want to explore further?  
+- **Extensions/replication**: If you were to replicate or extend this work, which part would you focus on, and how might you approach it?  
 
-3. **Group Project (70%)**  
-   - Semester-long group research project (replication, extension, or novel proposal).  
-   - Deliverables:  
-     1. Proposal Talk (Feb 6, ungraded)  
-     2. Checkpoint Code (Feb 9, ungraded)  
-     3. Checkpoint Writing (Feb 10, ungraded)  
-     4. Final Presentation (Feb 11, graded)  
-     5. Final Paper & Code (March 31, graded)  
+These responses are not graded, but they are essential preparation for in-class discussions and will make your role as a participant much more active and rewarding.  
+
+  
+2. **Discussant Role (graded, 30%)**  
+
+Each student will serve as a discussant for **one of the four core topics**. You will need to sign up for your chosen topic in advance. As a discussant, your responsibilities are:  
+
+- **Deep reading**: Work closely with other students assigned to the same topic to read the core paper(s) in depth.  
+- **Critical perspective**: Treat the paper as a baseline for potential future projects. Ask questions such as:  
+  - Does it introduce an interesting dataset we could work with?  
+  - Is there an analysis worth replicating?  
+  - How might this work be extended or applied in a new context?  
+- **Use peer insights**: You may draw on ideas from your classmates’ reading responses, but make sure to clearly acknowledge when a point comes from someone else.  
+- **Facilitate discussion**: Your main goal is to guide the class in understanding the paper and to help generate ideas for replication or extension.  
+- **Preparation for projects**: Think of this role as not just about explaining the paper, but also about setting the stage for potential final projects.  
+- Prepare 3–5 slides synthesizing the paper and peer responses.  
+   - 10-minute presentation + 5 minutes leading discussion with prompts.
+
+
+5. **Group Project (70%)**
+
+The group project is the centerpiece of this course. Its goal is to help you produce a paper-style contribution that strengthens your career profile, whether you aim for academia or industry. You should find a topic that interests you during the semester and think critically about possible extensions. For example, you might replicate an important part of a paper, apply a newer model to an existing dataset, or combine methods we learned in class.  
+
+Your goal is to learn how to produce academic-quality work: clean, open, and reproducible code; clear and expressive figures with strong captions; and precise, concise writing. The paper should be around 8 pages (4,000–8,000 words), written in the style of a research paper, and must include a **Contributions** section describing what each group member did. You should link a GitHub repository with the code you used for the project within the manuscript.  
+
+Research ideas improve when they are communicated. Explaining your work to others, through writing and also through slides and presentations, helps you see new angles and deepen your understanding. Presentations are also an opportunity to teach your classmates something valuable.  
+
+Deliverables:  
+1. Proposal Talk (Feb 6, ungraded)  
+2. Checkpoint Code (Feb 9, ungraded)  
+3. Checkpoint Writing (Feb 10, ungraded)  
+4. Final Presentation (Feb 11, graded)  
+5. Final Paper & Code (March 31, graded)  
+
