@@ -11,7 +11,7 @@
 
 | Date   | Sessions | Focus / Topic |
 |--------|----------|---------------|
-| 09.01. | 2        | Topic 1: Bias and Fairness in LLMs / VLMs |
+| 09.01. | 2        | [Topic 1: Bias and Fairness in LLMs / VLMs](topics/topic1_bias-fairness.md)|
 | 16.01. | 2        | Topic 2: Social Choice and LLM Alignment |
 | 23.01. | 2        | Topic 3: Reinforcement Learning for Social Dilemma Settings |
 | 30.01. | 2        | Topic 4: Finding Patterns in Multidimensional Behavioral Timeseries |
