@@ -1,4 +1,4 @@
-*AI, Society, and Human Behavior: Research Methods in Context**  
+# **AI, Society, and Human Behavior: Research Methods in Context**  
 
 - **Format:** 2 SWS
 - M.A. Politics and Public Administration | Study Area 4, Modul 3
@@ -25,6 +25,22 @@
 | 11.02. | 2        | Final project presentations (approx. 45 min per group) |
 
 ---
+
+### Grid View: January and February 2026 
+
+| Mon | Tue | Wed | Thu | Fri | Sat | Sun |
+|-----|-----|-----|-----|-----|-----|-----|
+| <sub><sup>–</sup></sub> | <sub><sup>–</sup></sub> | <sub><sup>–</sup></sub> | <sub><sup>1</sup></sub> | <sub><sup>2</sup></sub> | <sub><sup>3</sup></sub> | <sub><sup>4</sup></sub> |
+| <sub><sup>5</sup></sub> | <sub><sup>6</sup></sub> | <sub><sup>7</sup></sub> | <sub><sup>8</sup></sub> | **9** <br> Topic 1 | <sub><sup>10</sup></sub> | <sub><sup>11</sup></sub> |
+| <sub><sup>12</sup></sub> | <sub><sup>13</sup></sub> | <sub><sup>14</sup></sub> | <sub><sup>15</sup></sub> | **16** <br> Topic 2 | <sub><sup>17</sup></sub> | <sub><sup>18</sup></sub> |
+| <sub><sup>19</sup></sub> | <sub><sup>20</sup></sub> | <sub><sup>21</sup></sub> | <sub><sup>22</sup></sub> | **23** <br> Topic 3 | <sub><sup>24</sup></sub> | <sub><sup>25</sup></sub> |
+| <sub><sup>26</sup></sub> | <sub><sup>27</sup></sub> | <sub><sup>28</sup></sub> | <sub><sup>29</sup></sub> | **30** <br> Topic 4 | <sub><sup>31</sup></sub> | <sub><sup>1</sup></sub> |
+|-----|-----|-----|-----|-----|-----|-----|
+| <sub><sup>2</sup></sub> | <sub><sup>3</sup></sub> | <sub><sup>4</sup></sub> | <sub><sup>5</sup></sub> | **6** <br> Pitches | <sub><sup>7</sup></sub> | <sub><sup>8</sup></sub> |
+| **9** <br> Code Clinic | **10** <br> Writing Clinic | **11** <br> Presentations | <sub><sup>12</sup></sub> | <sub><sup>13</sup></sub> | <sub><sup>14</sup></sub> | <sub><sup>15</sup></sub> |
+| <sub><sup>16</sup></sub> | <sub><sup>17</sup></sub> | <sub><sup>19</sup></sub> | <sub><sup>19</sup></sub> | <sub><sup>20</sup></sub> | <sub><sup>21</sup></sub> | <sub><sup>22</sup></sub> |
+| <sub><sup>23</sup></sub> | <sub><sup>24</sup></sub> | <sub><sup>25</sup></sub> | <sub><sup>26</sup></sub> | <sub><sup>27</sup></sub> | <sub><sup>28</sup></sub> | <sub><sup>–</sup></sub> |
+
 
 ## 📖 Course Description
 
