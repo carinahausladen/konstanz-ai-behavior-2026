@@ -27,8 +27,7 @@ Proportional aggregation methods — drawn from voting theory — may help us av
    - Pipeline: pretraining → supervised fine-tuning → RLHF with preference models.  
    - Aggregation enters when building preference models from human judgments.  
 
-4. **Fairness & Representation**
-   - Majority rule risks marginalizing minority views.  
+4. **Value Pluralism**
    - Proportional aggregation offers a way to preserve value pluralism in AI alignment.  
 
 ---
@@ -46,6 +45,14 @@ Proportional aggregation methods — drawn from voting theory — may help us av
 3. Conitzer, V., Freedman, R., Heitzig, J., Holliday, W.H., Jacobs, B.M., Lambert, N., Mossé, M., Pacuit, E., Russell, S., Schoelkopf, H. and Tewolde, E., (2024).
    *Social choice should guide ai alignment in dealing with diverse human feedback.*
    [arXiv link](https://arxiv.org/pdf/2404.10271)
+
+4. Yang, J.C., Hausladen, C.I., Peters, D., Pournaras, E., Hnggli Fricker, R. and Helbing, D., (2024).
+   (Designing digital voting systems for citizens: Achieving fairness and legitimacy in participatory budgeting.*
+   [ACM Link](https://dl.acm.org/doi/full/10.1145/3665332)
+
+5. Tasioulas, J., (2022).
+   *Artificial intelligence, humanistic ethics.*
+   [Daedalus](https://direct.mit.edu/daed/article/151/2/232/110615/Artificial-Intelligence-Humanistic-Ethics)
 
 ### Optional
 1. Sen, A. K. (1970). *Collective Choice and Social Welfare.* Holden-Day, San Francisco.  
