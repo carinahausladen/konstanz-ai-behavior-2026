@@ -34,6 +34,7 @@ Large language and vision–language models are increasingly used in settings wh
 - Fiske, S. T., Cuddy, A. J., & Glick, P. (2002). *Stereotype Content Model: Warmth and Competence as universal dimensions of social perception.*  [Link](https://d1wqtxts1xzle7.cloudfront.net/49013872/Warmth_and_Competence_as_Universal_Dimen20160921-3310-1lvtfe0-libre.pdf?1474469807=&response-content-disposition=inline%3B+filename%3DWarmth_and_Competence_as_Universal_Dimen.pdf&Expires=1758630848&Signature=J0~E420wGbv20fSrXaTC6wK7YDSj0jAeACA-ORvHlCNLodr98qOxCrXoOZhikOjGduTj-DRhYUVYqVHJ0cGK~3dVIiMEKlcj~f8fcGKx0s0Nt6GH5afywe-eZs8o~zHhwO4XlwO74UC0ckdwP2dGUj75A7DigQLDZm5my-U8YGba~h-k20BkhdVzZa0kKq9UcpkOGCXcqDqNDoLNEDex1soxu-5dcMJPmfTtGsbqrmlgGUMxScFhsbOmzqfa2v9OdxfQIuV5fg9UYXetyaNhcY-Il6VexdXxmXKhXrfSkJYyVxlZ0MeilZtF4Ar66dfeSUvQQuFCGYP5NiNI85Sw-A__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)
 - Bailey, A. H. (2022). *Based on billions of words on the internet, people = men.* Science Advances. [Link](https://www.science.org/doi/full/10.1126/sciadv.abm2463)  
 - Bai, X., Wang, A., Sucholutsky, I., & Griffiths, T. L. (2025). *Explicitly unbiased large language models still form biased associations.* [Link](https://doi.org/10.1073/pnas.2416228122)
+- Yang, J.C., Dailisan, D., Korecki, M., Hausladen, C.I. and Helbing, D., (2024). *Llm voting: Human choices and ai collective decision-making*. [Link](https://ojs.aaai.org/index.php/AIES/article/view/31758
 
 ---
 
