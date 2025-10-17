@@ -41,7 +41,11 @@ Proportional aggregation methods — drawn from voting theory — may help us av
 
 2. Brandt, F., Conitzer, V., Endriss, U., Lang, J., & Procaccia, A. D. (2016).  
    *Handbook of Computational Social Choice.* Springer.  
-   [SpringerLink](https://link.springer.com/chapter/10.1007/978-3-642-02839-7_6)  
+   [SpringerLink](https://link.springer.com/chapter/10.1007/978-3-642-02839-7_6)
+
+3. Conitzer, V., Freedman, R., Heitzig, J., Holliday, W.H., Jacobs, B.M., Lambert, N., Mossé, M., Pacuit, E., Russell, S., Schoelkopf, H. and Tewolde, E., (2024).
+   *Social choice should guide ai alignment in dealing with diverse human feedback.*
+   [arXiv link](https://arxiv.org/pdf/2404.10271)
 
 ### Optional
 1. Sen, A. K. (1970). *Collective Choice and Social Welfare.* Holden-Day, San Francisco.  
