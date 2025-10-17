@@ -99,7 +99,7 @@ Each student will serve as a discussant for **one of the four core topics**. You
    - 10-minute presentation + 5 minutes leading discussion with prompts.
 
 
-5. **Group Project (70%)**
+3. **Group Project (70%)**
 
 The group project is the centerpiece of this course. Its goal is to help you produce a paper-style contribution that strengthens your career profile, whether you aim for academia or industry. You should find a topic that interests you during the semester and think critically about possible extensions. For example, you might replicate an important part of a paper, apply a newer model to an existing dataset, or combine methods we learned in class.  
 
