@@ -40,7 +40,8 @@ Large language and vision–language models are increasingly used in settings wh
 
 ## 📊 Project Ideas & Datasets
 
-- Explore new LLMs such as **DeepSeek** or **ApertusAI (Swiss)** for bias analysis.  
+- Explore new LLMs such as **DeepSeek** or **ApertusAI (Swiss)** for bias analysis.
+- Hiring Discrimination by Agentic AI  
 
 ---
 
