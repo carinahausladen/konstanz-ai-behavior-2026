@@ -42,7 +42,7 @@ Large language and vision–language models are increasingly used in settings wh
 ## 📊 Project Ideas & Datasets
 
 - Explore new LLMs such as **DeepSeek** or **ApertusAI (Swiss)** for bias analysis.
-- Hiring Discrimination by Agentic AI  
+- Hiring Discrimination by Agentic AI (e.g. LinkedIn's new [Hiring Assistant](https://business.linkedin.com/talent-solutions/hiring-assistant?trk=leader)
 
 ---
 
