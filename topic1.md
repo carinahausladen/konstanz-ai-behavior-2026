@@ -35,7 +35,7 @@ Large language and vision–language models are increasingly used in settings wh
 - Bai, X., Wang, A., Sucholutsky, I., & Griffiths, T. L. (2025). *Explicitly unbiased large language models still form biased associations.* [Link](https://doi.org/10.1073/pnas.2416228122)
 - Yang, J.C., Dailisan, D., Korecki, M., Hausladen, C.I. and Helbing, D., (2024). *Llm voting: Human choices and ai collective decision-making*. [Link](https://ojs.aaai.org/index.php/AIES/article/view/31758
 
-## 📖 Optional Readings
+### Optional Readings
 - Radford, A., Kim, J. W., Hallacy, C., Ramesh, A., Goh, G., Agarwal, S., Sastry, G., Askell, A., Mishkin, P., Clark, J., Krueger, G., & Sutskever, I. (2021). *Learning Transferable Visual Models From Natural Language Supervision* (CLIP). [Link](https://arxiv.org/abs/2103.00020). 
 ---
 
