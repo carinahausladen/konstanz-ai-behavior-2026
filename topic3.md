@@ -2,38 +2,12 @@
 
 ---
 
-Social choice theory studies how individual preferences can be aggregated into a collective decision.  
-For computer scientists, it offers mathematical tools for preference aggregation.  
-For social scientists, it provides frameworks for fairness, representation, and legitimacy.  
-
-In the context of LLM alignment, these two worlds meet: we want models to reflect diverse human values, but human feedback is fragmented, subjective, and culturally varied.  
-Proportional aggregation methods — drawn from voting theory — may help us avoid majority domination while preserving minority perspectives in RLHF pipelines.  
-
----
-
-## 🔑 Core Concepts
-
-1. **Social Choice Theory**
-   - Framework for aggregating individual preferences into collective outcomes.  
-   - Classic voting rules: majority, Borda, Condorcet.  
-   - Arrow’s theorem: impossibility of a perfect rule.  
-
-2. **Proportional Aggregation**
-   - Representation proportional to group size/preferences.  
-   - Examples: Proportional Approval Voting, Single Transferable Vote (STV), Thiele methods.  
-   - Trade-offs: proportionality vs. efficiency.  
-
-3. **RLHF (Reinforcement Learning from Human Feedback)**
-   - Pipeline: pretraining → supervised fine-tuning → RLHF with preference models.  
-   - Aggregation enters when building preference models from human judgments.  
-
-4. **Value Pluralism**
-   - Proportional aggregation offers a way to preserve value pluralism in AI alignment.  
+This lecture explores how individual preferences can be elicited and aggregated to make collective decisions fairly and proportionally — from voting and participatory budgeting to modern AI systems that learn from human feedback.
+We connect classical social choice theory with human-centered AI, showing how the same principles of fairness and representation guide both democratic and computational decision-making.
 
 ---
 ## 📖 Readings
 
-### Core
 1. Kirk, H. R., Whitefield, A., Röttger, P., Bean, A., Margatina, K., Mosquera, R., Bartolo, M., Williams, A., He, H., Vidgen, B., & Hale, S. A. (2024).  
    *The PRISM Alignment Dataset: What Participatory, Representative and Individualised Human Feedback Reveals about the Subjective and Multicultural Alignment of Large Language Models.* arXiv.  
    [arXiv link](https://arxiv.org/abs/2404.16019)  
@@ -50,4 +24,43 @@ Proportional aggregation methods — drawn from voting theory — may help us av
    *Artificial intelligence, humanistic ethics.*
    [Daedalus](https://direct.mit.edu/daed/article/151/2/232/110615/Artificial-Intelligence-Humanistic-Ethics)
 
+---
+## 📘 Lecture Notes
+
+- Motivation: why study preference aggregation and fairness  
+- Preference elicitation  
+  - What are preferences?  
+  - Ordinal vs cardinal preferences  
+  - Methods of elicitation (rankings, approvals, ratings)  
+- Preference aggregation  
+  - From individual to collective choice  
+  - Different voting methods (majority, Borda, Condorcet, Approval, STV)  
+  - Fairness and proportionality principles  
+  - Key properties: monotonicity, quota rules, representation  
+- Committee elections  
+  - Thiele and Phragmén rules  
+  - Examples of proportional representation  
+- Participatory budgeting (PB)  
+  - PB as generalization of committee elections  
+  - Aggregation methods for PB (proportional and cost-aware)  
+  - Importance of proportional aggregation  
+  - Preference elicitation for PB  
+  - Negative voting and PB as a two-step process  
+- Human-centered LLMs  
+  - Learning from human preferences (RLHF)  
+  - Constitutional AI and alignment by written principles  
+- Pluralistic alignment
+
+---
+## 📊 Project Ideas & Datasets
+
+https://huggingface.co/datasets/HannahRoseKirk/prism-alignment
+
+---
+## References
+This lecture was inspired by:
+
+- https://duch.mimuw.edu.pl/~ps219737/wp-content/uploads/2023/06/ec-tutorial.pdf  
+- https://duch.mimuw.edu.pl/~ps219737/wp-content/uploads/2023/06/tutorial.pdf  
+- https://web.stanford.edu/class/cs329x/
 
