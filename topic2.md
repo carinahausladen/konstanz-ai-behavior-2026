@@ -1,42 +1,11 @@
-# 2️⃣ Reinforcement Learning in Social Dilemmas
+# Modeling Social Dilemmas through Reinforcement Learning
 
-
-Reinforcement learning is one of the core paradigms of computer science: it underpins many of the breakthroughs in modern AI, from AlphaGo to robotics to large language model alignment. For the social sciences, RL offers a way to study how agents actually behave and adapt over time, rather than assuming perfect rationality. The two core papers in this block show how RL can be used to model cooperation in resource dilemmas and even design mechanisms for fairer, more sustainable policies. Mastering RL therefore means bridging two worlds — agent-based simulation in the social sciences and a foundational concept in computer science.
-
----
-
-## 🔑 Core Concepts
-
-1. **Reinforcement Learning (RL)**
-   - Agents learn from rewards and punishments over time.  
-   - Focus on adaptation rather than fixed rational strategies.  
-
-2. **Q-Learning**
-   - Core algorithm of RL.  
-   - Learns state–action values through trial and error.  
-   - Simple but powerful: applies to small matrix games and large-scale AI systems.  
-
-3. **Markov Decision Processes (MDPs)**
-   - Formalism for sequential decision-making under uncertainty.  
-   - States, actions, transitions, rewards.  
-   - Provides the backbone for repeated social dilemma modeling.  
-
-4. **Social Dilemma Games**
-   - Situations with conflict between individual and collective interest.  
-   - Examples: Prisoner’s Dilemma, Stag Hunt, Public Goods Game.  
-   - Cooperation vs. defection as emergent dynamics.  
-
-5. **Inverse Reinforcement Learning (IRL)**
-   - From observed choices, infer the hidden reward function.  
-   - Useful in social science: recover fairness concerns, reciprocity, inequality aversion.  
-
-6. **Emergent Cooperation & Defection**
-   - Outcomes depend on learning rates, exploration strategies, and discounting.  
-   - RL explains why cooperation sometimes stabilizes, sometimes collapses.  
+This lecture explores how social dilemma games help us understand cooperation and conflict in human decision-making. 
+We connect ideas from behavioral economics and machine learning to study how people adapt their strategies over time. Reinforcement learning (RL) provides a framework for modeling these adaptive behaviors, while inverse reinforcement learning (IRL) helps infer the motivations behind observed choices.
 
 ---
 
-## 📖 Core Readings
+## 📖 Readings
 
 - Köster, R., O’Reilly, J. X., Yeung, N., Strouse, D., Phillips, L., Chadwick, M., … & Banerjee, S. (2025).  
   *Deep reinforcement learning can promote sustainable human behaviour in a common-pool resource problem.*  
@@ -47,3 +16,32 @@ Reinforcement learning is one of the core paradigms of computer science: it unde
   *Deep mechanism design: Learning social and economic policies for human benefit.*  
   **Proceedings of the National Academy of Sciences (PNAS).**  
   [https://www.pnas.org/doi/10.1073/pnas.2319949121](https://www.pnas.org/doi/10.1073/pnas.2319949121)  
+
+
+- Camerer, C. F. (2003). *Behavioral Game Theory: Experiments in Strategic Interaction.* Princeton University Press.
+- Fehr, E., & Schmidt, K. M. (1999). "A Theory of Fairness, Competition, and Cooperation." *Quarterly Journal of Economics*, 114(3), 817–868.
+- Ostrom, E. (1990). *Governing the Commons: The Evolution of Institutions for Collective Action.* Cambridge University Press.  
+
+---
+## 📘 Lecture Notes
+
+- Social Dilemma Games
+   - Situations with conflict between individual and collective interest.  
+   - Examples: Prisoner’s Dilemma, Stag Hunt, Public Goods Game.  
+   - Cooperation vs. defection as emergent dynamics.
+- Reinforcement Learning (RL)
+   - Agents learn from rewards and punishments over time.  
+   - Focus on adaptation rather than fixed rational strategies.
+- Markov Decision Processes (MDPs)
+   - Formalism for sequential decision-making under uncertainty.  
+   - States, actions, transitions, rewards.  
+   - Provides the backbone for repeated social dilemma modeling.
+- Q-Learning
+   - Core algorithm of RL.  
+   - Learns state–action values through trial and error.  
+   - Simple but powerful: applies to small matrix games and large-scale AI systems.
+- Inverse Reinforcement Learning (IRL)
+   - From observed choices, infer the hidden reward function.  
+   - Useful in social science: recover fairness concerns, reciprocity, inequality aversion.  
+
+
