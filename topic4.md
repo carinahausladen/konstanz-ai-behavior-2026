@@ -26,19 +26,19 @@ Clustering is a general technique for discovering patterns in datasets in an exp
 
 ---
 
-## 📖 Dataset
+## 📖 Datasets
 
-- **Dal Bó & Fréchette (2018)** — Indefinite Repeated Games with Perfect Monitoring  
-  [JSTOR link](https://www.jstor.org/stable/pdf/26417201)  
+- [Dal Bó & Fréchette (2018)](https://www.jstor.org/stable/pdf/26417201)  
   - 103 sessions, 1,734 subjects, 116,644 observations  
-
-- **Bigoni et al. 2024 (Indefinite Imperfect Monitoring)**  
-  [SSRN link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4809158)  
+- [Bigoni et al. (2024)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4809158)  
   - 27 sessions, 598 subjects, 60,334 observations  
-
-- **Embrey et al. (2018)** — Finite Repeated Games with Perfect Monitoring  
-  [Quarterly Journal of Economics](https://academic.oup.com/qje/article/133/1/509/4095199)  
+- [Embrey et al. (2018)](https://academic.oup.com/qje/article/133/1/509/4095199)  
   - 27 sessions, 552 subjects, 65,720 observations  
+- [Mazur et al. (2025)](https://github.com/lechmazur/pgg_bench)  
 
-- **Mazur et al. (2025)** — *PGG-Bench: Benchmarking Public Goods Games with LLMs*  
-  [GitHub repository](https://github.com/lechmazur/pgg_bench)  
+
+---
+## Readings
+
+- Von Luxburg U, Williamson RC, Guyon I. Clustering: Science or art?. (2012) [Link](https://proceedings.mlr.press/v27/luxburg12a/luxburg12a.pdf)
+- Halkidi, M., Batistakis, Y. and Vazirgiannis, M., 2001. On clustering validation techniques. [Link](https://web.itu.edu.tr/sgunduz/courses/verimaden/paper/validity_survey.pdf)
