@@ -41,6 +41,10 @@
 | <sub><sup>16</sup></sub> | <sub><sup>17</sup></sub> | <sub><sup>19</sup></sub> | <sub><sup>19</sup></sub> | <sub><sup>20</sup></sub> | <sub><sup>21</sup></sub> | <sub><sup>22</sup></sub> |
 | <sub><sup>23</sup></sub> | <sub><sup>24</sup></sub> | <sub><sup>25</sup></sub> | <sub><sup>26</sup></sub> | <sub><sup>27</sup></sub> | <sub><sup>28</sup></sub> | <sub><sup>–</sup></sub> |
 
+## Slides
+
+- October 24: [slides.com/carinah/methods-in-context-intro](https://slides.com/carinah/methods-in-context-intro)
+
 
 ## 📖 Course Description
 
