@@ -22,17 +22,25 @@ We connect ideas from behavioral economics and machine learning to study how peo
   **Games and Economic Behavior**, 144, 84–103.  
   [https://doi.org/10.1016/j.geb.2024.01.004](https://doi.org/10.1016/j.geb.2024.01.004)
 
-- Zheng, G., Zhang, J., Deng, S., Cai, W., & Chen, L. (2024).
-  *Evolution of cooperation in the public goods game with Q-learning.*
-  **Chaos, Solitons & Fractals**, 188, 115568.  
-  [https://doi.org/10.1016/j.chaos.2024.115568](https://doi.org/10.1016/j.chaos.2024.115568)
+- Leibo, J. Z., Zambaldi, V., Lanctot, M., Marecki, J., & Graepel, T. (2017).
+  *Multi-agent reinforcement learning in sequential social dilemmas.*
+  [Link](https://arxiv.org/abs/1702.03037)
+
 
 ### Optional
 
-- Erev, I., & Roth, A. E. (1998).
-  *Predicting How People Play Games: Reinforcement Learning in Experimental Games with Unique, Mixed Strategy Equilibria.*
-  **American Economic Review**, 88(4), 848–881.  
-  [https://economics.ucsd.edu/~jandreon/Econ264/papers/Erev%20Roth%20AER%201998.pdf](https://economics.ucsd.edu/~jandreon/Econ264/papers/Erev%20Roth%20AER%201998.pdf)
+- Camerer & Ho (1999)  
+  https://doi.org/10.1111/1468-0262.00054
+
+- Peysakhovich & Lerer (2017)  
+  https://arxiv.org/abs/1709.02865
+
+- Zheng et al. (2024)  
+  https://doi.org/10.1016/j.chaos.2024.115568
+
+- Foerster et al. (2018)  
+  https://arxiv.org/abs/1709.04326
+
 
 ---
 ## 📘 Lecture Notes
