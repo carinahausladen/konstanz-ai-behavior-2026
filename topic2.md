@@ -15,12 +15,24 @@ We connect ideas from behavioral economics and machine learning to study how peo
 - Tacchetti, A., Koster, R., Balaguer, J., … & Summerfield, C. (2024).  
   *Deep mechanism design: Learning social and economic policies for human benefit.*  
   **Proceedings of the National Academy of Sciences (PNAS).**  
-  [https://www.pnas.org/doi/10.1073/pnas.2319949121](https://www.pnas.org/doi/10.1073/pnas.2319949121)  
+  [https://www.pnas.org/doi/10.1073/pnas.2319949121](https://www.pnas.org/doi/10.1073/pnas.2319949121)
 
+- Dolgopolov, A. (2024).
+  *Reinforcement learning in a prisoner’s dilemma.*
+  **Games and Economic Behavior**, 144, 84–103.  
+  [https://doi.org/10.1016/j.geb.2024.01.004](https://doi.org/10.1016/j.geb.2024.01.004)
 
-- Camerer, C. F. (2003). *Behavioral Game Theory: Experiments in Strategic Interaction.* Princeton University Press.
-- Fehr, E., & Schmidt, K. M. (1999). "A Theory of Fairness, Competition, and Cooperation." *Quarterly Journal of Economics*, 114(3), 817–868.
-- Ostrom, E. (1990). *Governing the Commons: The Evolution of Institutions for Collective Action.* Cambridge University Press.  
+- Zheng, G., Zhang, J., Deng, S., Cai, W., & Chen, L. (2024).
+  *Evolution of cooperation in the public goods game with Q-learning.*
+  **Chaos, Solitons & Fractals**, 188, 115568.  
+  [https://doi.org/10.1016/j.chaos.2024.115568](https://doi.org/10.1016/j.chaos.2024.115568)
+
+### Optional
+
+- Erev, I., & Roth, A. E. (1998).
+  *Predicting How People Play Games: Reinforcement Learning in Experimental Games with Unique, Mixed Strategy Equilibria.*
+  **American Economic Review**, 88(4), 848–881.  
+  [https://economics.ucsd.edu/~jandreon/Econ264/papers/Erev%20Roth%20AER%201998.pdf](https://economics.ucsd.edu/~jandreon/Econ264/papers/Erev%20Roth%20AER%201998.pdf)
 
 ---
 ## 📘 Lecture Notes
