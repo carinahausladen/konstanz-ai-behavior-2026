@@ -85,6 +85,7 @@ The purpose of these short responses is to help you truly understand each paper 
 - **Extensions/replication**: If you were to replicate or extend this work, which part would you focus on, and how might you approach it?  
 
 These responses are not graded, but they are essential preparation for in-class discussions and will make your role as a participant much more active and rewarding.  
+Note: I provide estimated listening times (based on 1.5× playback) for the assigned papers to help you plan your preparation.
 
   
 2. **Discussant Role (graded, 30%)**  
