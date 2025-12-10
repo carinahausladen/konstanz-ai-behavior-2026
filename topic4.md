@@ -9,26 +9,26 @@ Clustering is a general technique for discovering patterns in datasets in an exp
 - von Luxburg, U., Williamson, R. C., & Guyon, I. (2012).  
   *Clustering: Science or art?*  
   Proceedings of ICML Workshop on Unsupervised and Transfer Learning, JMLR: Workshop and Conference Proceedings, 27, 65–79.  
-  [Link](https://proceedings.mlr.press/v27/luxburg12a/luxburg12a.pdf)
+  [Link](https://proceedings.mlr.press/v27/luxburg12a/luxburg12a.pdf) 🎧 ~16:22 min (1.5× estimated listening time)
 
 - Hennig, C. (2015).  
   *What are the true clusters?*  
   Pattern Recognition Letters, 64, 53–62.  
-  [Link](https://doi.org/10.1016/j.patrec.2015.04.009)
+  [Link](https://doi.org/10.1016/j.patrec.2015.04.009) 🎧 ~26:44 min (1.5× estimated listening time)
 
 - Montero-Porras, E., Grujić, J., Domingos, E. F., & Lenaerts, T. (2022).  
   *Inferring strategies from observations in long iterated prisoner’s dilemma experiments.*  
   Scientific Reports, 12, 7589.  
-  [Link](https://doi.org/10.1038/s41598-022-11654-2)
+  [Link](https://doi.org/10.1038/s41598-022-11654-2) 🎧 ~27:56 min (1.5× estimated listening time)
 
-- Petitjean, F., Ketterlin, A., & Gançarski, P. (2011).  
-  *A global averaging method for dynamic time warping, with applications to clustering.*  
-  Pattern Recognition, 44(3), 678–693.  
-  [Link](https://doi.org/10.1016/j.patcog.2010.09.013)
 
 
 ### Optional 
 
+- Petitjean, F., Ketterlin, A., & Gançarski, P. (2011).  
+  *A global averaging method for dynamic time warping, with applications to clustering.*  
+  Pattern Recognition, 44(3), 678–693.  
+  [Link](https://doi.org/10.1016/j.patcog.2010.09.013) 🎧 ~52:31 min (1.5× estimated listening time)
 - Gerlach et al. (2018) — [Link](https://doi.org/10.1038/s41562-018-0419-z)  
 - Halkidi et al. (2001) — [Link](https://web.itu.edu.tr/sgunduz/courses/verimaden/paper/validity_survey.pdf)  
 - Wang (2025) — [Link](https://doi.org/10.1007/s11403-025-00451-5)
