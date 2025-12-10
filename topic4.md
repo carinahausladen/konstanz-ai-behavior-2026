@@ -16,11 +16,27 @@ Clustering is a general technique for discovering patterns in datasets in an exp
   **Pattern Recognition Letters**, 64, 53–62.  
   [https://doi.org/10.1016/j.patrec.2015.04.009](https://doi.org/10.1016/j.patrec.2015.04.009)
 
+- Montero-Porras, E., Grujić, J., Domingos, E. F., & Lenaerts, T. (2022).
+  *Inferring strategies from observations in long iterated Prisoner’s dilemma experiments.*
+  **Scientific Reports**, 12, 7589.  
+  [https://doi.org/10.1038/s41598-022-11359-w](https://doi.org/10.1038/s41598-022-11359-w)
+
+- Gerlach, M., Farb, B., Revelle, W., & Nunes Amaral, L. A. (2018).
+  *A robust data-driven approach identifies four personality types across four large data sets.*
+  **Nature Human Behaviour**, 2, 735–742.  
+  [https://doi.org/10.1038/s41562-018-0419-z](https://doi.org/10.1038/s41562-018-0419-z)
+
+### Optional
+
 - Halkidi, M., Batistakis, Y., & Vazirgiannis, M. (2001).
   *On clustering validation techniques.*
   **Journal of Intelligent Information Systems**, 17(2–3), 107–145.
   [https://web.itu.edu.tr/sgunduz/courses/verimaden/paper/validity_survey.pdf](https://web.itu.edu.tr/sgunduz/courses/verimaden/paper/validity_survey.pdf)
 
+- Wang, S. (2025).
+  *Classifying heterogeneous cooperation in social dilemmas: experimental evidence and simulation insights.*
+  **Journal of Economic Interaction and Coordination**, 20, 925–958.  
+  [https://doi.org/10.1007/s11403-025-00451-5](https://doi.org/10.1007/s11403-025-00451-5)
 ---
 
 ## 🔑 Core Concepts
@@ -46,6 +62,17 @@ Clustering is a general technique for discovering patterns in datasets in an exp
 ---
 
 ## 📖 Datasets
+
+### EU Parliament Voting
+
+Research idea: Treat European Parliament voting behavior as a high-dimensional time series and cluster MEPs based on evolving cooperation and conflict. Explore whether political alliances change over time and by issue area.
+
+- Data: [https://github.com/HowTheyVote/data](https://github.com/HowTheyVote/data)
+- Related paper: Rosalino, S. M., Curado, A., & Pinheiro, F. L. (2025). *Multi-polarization during the 9th European Parliament.* arXiv:2507.03214 [physics.soc-ph].  
+  [https://arxiv.org/abs/2507.03214](https://arxiv.org/abs/2507.03214)
+
+
+### On Standard Cooperation Games
 
 - [Dal Bó & Fréchette (2018)](https://www.jstor.org/stable/pdf/26417201)  
   - 103 sessions, 1,734 subjects, 116,644 observations  
