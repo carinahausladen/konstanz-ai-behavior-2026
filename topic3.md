@@ -26,7 +26,7 @@ We connect classical social choice theory with human-centered AI, showing how th
 - González Barman, K., Lohse, S., & de Regt, H. W. (2025).  
   *Reinforcement learning from human feedback in LLMs: Whose culture, whose values, whose perspectives?*  
   Philosophy & Technology, 38, 35.  
-  [Link](https://doi.org/10.1007/s13347-025-00600-3)
+  [Link](https://doi.org/10.48550/arXiv.2407.17482)
 
 
 ### Optional 
