@@ -19,7 +19,7 @@ Clustering is a general technique for discovering patterns in datasets in an exp
 - Montero-Porras, E., Grujić, J., Domingos, E. F., & Lenaerts, T. (2022).  
   *Inferring strategies from observations in long iterated prisoner’s dilemma experiments.*  
   Scientific Reports, 12, 7589.  
-  [Link](https://doi.org/10.1038/s41598-022-11359-w)
+  [Link](https://doi.org/10.1038/s41598-022-11654-2)
 
 - Petitjean, F., Ketterlin, A., & Gançarski, P. (2011).  
   *A global averaging method for dynamic time warping, with applications to clustering.*  
