@@ -26,9 +26,8 @@ Clustering is a general technique for discovering patterns in datasets in an exp
   Pattern Recognition, 44(3), 678–693.  
   [Link](https://doi.org/10.1016/j.patcog.2010.09.013)
 
----
 
-### Optional Readings
+### Optional 
 
 - Gerlach et al. (2018) — [Link](https://doi.org/10.1038/s41562-018-0419-z)  
 - Halkidi et al. (2001) — [Link](https://web.itu.edu.tr/sgunduz/courses/verimaden/paper/validity_survey.pdf)  
