@@ -4,28 +4,37 @@ Bias and fairness in machine learning examine how social inequalities and value 
 
 ---
 
-## 📖 Core Readings
 
-- Gallegos, I. O., Rossi, R. A., Barrow, J., Tanjim, M. M., Kim, S., Dernoncourt, F., Yu, T., Zhang, R., & Ahmed, N. K. (2024).
-  *Bias and fairness in large language models: A survey.*
-  **Computational Linguistics**, 50(3), 1097–1179.  
-  [Llink](https://doi.org/10.1162/coli_a_00524)
+## 📖 Readings
 
-- Bailey, A. H. (2022). *Based on billions of words on the internet, people = men.* Science Advances. [Link](https://www.science.org/doi/full/10.1126/sciadv.abm2463)
+- Gallegos, I. O., Rossi, R. A., Barrow, J., Tanjim, M. M., Kim, S., Dernoncourt, F., Yu, T., Zhang, R., & Ahmed, N. K. (2024).  
+  *Bias and fairness in large language models: A survey.*  
+  Computational Linguistics, 50(3), 1097–1179.  
+  [Link](https://doi.org/10.1162/coli_a_00524)
 
-- Bai, X., Wang, A., Sucholutsky, I., & Griffiths, T. L. (2025). *Explicitly unbiased large language models still form biased associations.* [Link](https://doi.org/10.1073/pnas.2416228122)
+- Bailey, A. H. (2022).  
+  *Based on billions of words on the internet, people = men.*  
+  Science Advances.  
+  [Link](https://www.science.org/doi/full/10.1126/sciadv.abm2463)
 
-- Khan, F. A., Sivakumar, N., Wang, Y. O., Metcalf, K., Camacho, C., & Theobald, B.-J. (2025).
-  *Investigating Intersectional Bias in Large Language Models using Confidence Disparities in Coreference Resolution.*
-  In Proceedings of COLM 2025.
+- Bai, X., Wang, A., Sucholutsky, I., & Griffiths, T. L. (2025).  
+  *Explicitly unbiased large language models still form biased associations.*  
+  Proceedings of the National Academy of Sciences.  
+  [Link](https://doi.org/10.1073/pnas.2416228122)
+
+- Khan, F. A., Sivakumar, N., Wang, Y. O., Metcalf, K., Camacho, C., & Theobald, B.-J. (2025).  
+  *Investigating intersectional bias in large language models using confidence disparities in coreference resolution.*  
+  Proceedings of COLM 2025.  
   [Link](https://arxiv.org/abs/2508.07111)
 
 
-### Optional Readings
-- Caliskan et al. 2017 — [Link](https://www.science.org/doi/pdf/10.1126/science.aal4230)
-- Fiske et al. 2002 — [Link](https://d1wqtxts1xzle7.cloudfront.net/49013872/Warmth_and_Competence_as_Universal_Dimen20160921-3310-1lvtfe0-libre.pdf?1474469807=&response-content-disposition=inline%3B+filename%3DWarmth_and_Competence_as_Universal_Dimen.pdf&Expires=1758630848&Signature=J0~E420wGbv20fSrXaTC6wK7YDSj0jAeACA-ORvHlCNLodr98qOxCrXoOZhikOjGduTj-DRhYUVYqVHJ0cGK~3dVIiMEKlcj~f8fcGKx0s0Nt6GH5afywe-eZs8o~zHhwO4XlwO74UC0ckdwP2dGUj75A7DigQLDZm5my-U8YGba~h-k20BkhdVzZa0kKq9UcpkOGCXcqDqNDoLNEDex1soxu-5dcMJPmfTtGsbqrmlgGUMxScFhsbOmzqfa2v9OdxfQIuV5fg9UYXetyaNhcY-Il6VexdXxmXKhXrfSkJYyVxlZ0MeilZtF4Ar66dfeSUvQQuFCGYP5NiNI85Sw-A__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)
-- Yang et al. 2024 — [Link](https://ojs.aaai.org/index.php/AIES/article/view/31758)
-- Radford et al. 2021 — [Link](https://arxiv.org/abs/2103.00020)
+### Optional 
+
+- Caliskan et al. (2017) — [Link](https://www.science.org/doi/pdf/10.1126/science.aal4230)  
+- Fiske et al. (2002) — [Link](https://d1wqtxts1xzle7.cloudfront.net/49013872/Warmth_and_Competence_as_Universal_Dimen20160921-3310-1lvtfe0-libre.pdf)  
+- Yang et al. (2024) — [Link](https://ojs.aaai.org/index.php/AIES/article/view/31758)  
+- Radford et al. (2021) — [Link](https://arxiv.org/abs/2103.00020)
+
 
 ---
 
