@@ -11,22 +11,23 @@ We connect classical social choice theory with human-centered AI, showing how th
 - Kirk, H. R., Whitefield, A., Röttger, P., Bean, A., Margatina, K., Mosquera, R., Bartolo, M., Williams, A., He, H., Vidgen, B., & Hale, S. A. (2024).  
   *The PRISM Alignment Dataset: What participatory, representative and individualised human feedback reveals about the subjective and multicultural alignment of large language models.*  
   arXiv preprint.  
-  [Link](https://arxiv.org/abs/2404.16019)
+  [Link](https://arxiv.org/abs/2404.16019) 🎧 ~15:40 min (1.5× estimated listening time)
 
 - Conitzer, V., Freedman, R., Heitzig, J., Holliday, W. H., Jacobs, B. M., Lambert, N., Mossé, M., Pacuit, E., Russell, S., Schoelkopf, H., & Tewolde, E. (2024).  
   *Social choice should guide AI alignment in dealing with diverse human feedback.*  
   arXiv preprint.  
-  [Link](https://arxiv.org/pdf/2404.10271)
+  [Link](https://arxiv.org/pdf/2404.10271) 🎧 ~29:32 min (1.5× estimated listening time)
 
 - Qiu, T. (2024).  
   *Representative social choice: From learning theory to AI alignment.*  
   arXiv preprint.  
-  [Link](https://arxiv.org/abs/2410.23953)
+  [Link](https://arxiv.org/abs/2410.23953) 🎧 ~28:26 min (1.5× estimated listening time)
+
 
 - González Barman, K., Lohse, S., & de Regt, H. W. (2025).  
   *Reinforcement learning from human feedback in LLMs: Whose culture, whose values, whose perspectives?*  
   Philosophy & Technology, 38, 35.  
-  [Link](https://doi.org/10.48550/arXiv.2407.17482)
+  [Link](https://doi.org/10.48550/arXiv.2407.17482) 🎧 ~27:17 min (1.5× estimated listening time)
 
 
 ### Optional 
