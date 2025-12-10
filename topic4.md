@@ -21,12 +21,17 @@ Clustering is a general technique for discovering patterns in datasets in an exp
   **Scientific Reports**, 12, 7589.  
   [https://doi.org/10.1038/s41598-022-11359-w](https://doi.org/10.1038/s41598-022-11359-w)
 
+- Petitjean, F., Ketterlin, A., & Gançarski, P. (2011).
+  *A global averaging method for dynamic time warping, with applications to clustering.* **Pattern Recognition**, 44(3), 678–693.  
+  [Link](https://doi.org/10.1016/j.patcog.2010.09.013)
+
+
+### Optional
+
 - Gerlach, M., Farb, B., Revelle, W., & Nunes Amaral, L. A. (2018).
   *A robust data-driven approach identifies four personality types across four large data sets.*
   **Nature Human Behaviour**, 2, 735–742.  
   [https://doi.org/10.1038/s41562-018-0419-z](https://doi.org/10.1038/s41562-018-0419-z)
-
-### Optional
 
 - Halkidi, M., Batistakis, Y., & Vazirgiannis, M. (2001).
   *On clustering validation techniques.*
