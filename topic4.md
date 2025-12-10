@@ -4,6 +4,25 @@ Clustering is a general technique for discovering patterns in datasets in an exp
 
 ---
 
+## 📖 Readings
+
+- von Luxburg, U., Williamson, R. C., & Guyon, I. (2012).
+  *Clustering: Science or Art?*
+  **Proceedings of ICML Workshop on Unsupervised and Transfer Learning,** JMLR: Workshop and Conference Proceedings, 27, 65–79.  
+  [https://proceedings.mlr.press/v27/luxburg12a/luxburg12a.pdf](https://proceedings.mlr.press/v27/luxburg12a/luxburg12a.pdf)
+
+- Hennig, C. (2015).
+  *What are the true clusters?*
+  **Pattern Recognition Letters**, 64, 53–62.  
+  [https://doi.org/10.1016/j.patrec.2015.04.009](https://doi.org/10.1016/j.patrec.2015.04.009)
+
+- Halkidi, M., Batistakis, Y., & Vazirgiannis, M. (2001).
+  *On clustering validation techniques.*
+  **Journal of Intelligent Information Systems**, 17(2–3), 107–145.
+  [https://web.itu.edu.tr/sgunduz/courses/verimaden/paper/validity_survey.pdf](https://web.itu.edu.tr/sgunduz/courses/verimaden/paper/validity_survey.pdf)
+
+---
+
 ## 🔑 Core Concepts
 
 
@@ -36,9 +55,3 @@ Clustering is a general technique for discovering patterns in datasets in an exp
   - 27 sessions, 552 subjects, 65,720 observations  
 - [Mazur et al. (2025)](https://github.com/lechmazur/pgg_bench)  
 
-
----
-## Readings
-
-- Von Luxburg U, Williamson RC, Guyon I. Clustering: Science or art?. (2012) [Link](https://proceedings.mlr.press/v27/luxburg12a/luxburg12a.pdf)
-- Halkidi, M., Batistakis, Y. and Vazirgiannis, M., 2001. On clustering validation techniques. [Link](https://web.itu.edu.tr/sgunduz/courses/verimaden/paper/validity_survey.pdf)
