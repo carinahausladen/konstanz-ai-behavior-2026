@@ -8,19 +8,29 @@ We connect classical social choice theory with human-centered AI, showing how th
 ---
 ## 📖 Readings
 
-1. Kirk, H. R., Whitefield, A., Röttger, P., Bean, A., Margatina, K., Mosquera, R., Bartolo, M., Williams, A., He, H., Vidgen, B., & Hale, S. A. (2024).  
+-  Kirk, H. R., Whitefield, A., Röttger, P., Bean, A., Margatina, K., Mosquera, R., Bartolo, M., Williams, A., He, H., Vidgen, B., & Hale, S. A. (2024).  
    *The PRISM Alignment Dataset: What Participatory, Representative and Individualised Human Feedback Reveals about the Subjective and Multicultural Alignment of Large Language Models.* arXiv.  
    [arXiv link](https://arxiv.org/abs/2404.16019)  
 
-2. Conitzer, V., Freedman, R., Heitzig, J., Holliday, W.H., Jacobs, B.M., Lambert, N., Mossé, M., Pacuit, E., Russell, S., Schoelkopf, H. and Tewolde, E., (2024).
+-  Conitzer, V., Freedman, R., Heitzig, J., Holliday, W.H., Jacobs, B.M., Lambert, N., Mossé, M., Pacuit, E., Russell, S., Schoelkopf, H. and Tewolde, E., (2024).
    *Social choice should guide ai alignment in dealing with diverse human feedback.*
    [arXiv link](https://arxiv.org/pdf/2404.10271)
 
-3. Yang, J.C., Hausladen, C.I., Peters, D., Pournaras, E., Hnggli Fricker, R. and Helbing, D., (2024).
+- Qiu, T. (2024).
+  *Representative Social Choice: From Learning Theory to AI Alignment.*
+  [arXiv link](https://arxiv.org/abs/2410.23953)
+
+- González Barman, K., Lohse, S., & de Regt, H. W. (2025).
+  *Reinforcement Learning from Human Feedback in LLMs: Whose Culture, Whose Values, Whose Perspectives?* **Philosophy & Technology**, 38, 35.  
+  [Link](https://doi.org/10.1007/s13347-025-00600-3)
+
+
+### Optional 
+-  Yang, J.C., Hausladen, C.I., Peters, D., Pournaras, E., Hnggli Fricker, R. and Helbing, D., (2024).
    *Designing digital voting systems for citizens: Achieving fairness and legitimacy in participatory budgeting.*
    [ACM Link](https://dl.acm.org/doi/full/10.1145/3665332)
 
-4. Tasioulas, J., (2022).
+-  Tasioulas, J., (2022).
    *Artificial intelligence, humanistic ethics.*
    [Daedalus](https://direct.mit.edu/daed/article/151/2/232/110615/Artificial-Intelligence-Humanistic-Ethics)
 
