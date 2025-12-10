@@ -9,22 +9,22 @@ We connect ideas from behavioral economics and machine learning to study how peo
 - Köster, R., O’Reilly, J. X., Yeung, N., Strouse, D., Phillips, L., Chadwick, M., … & Banerjee, S. (2025).  
   *Deep reinforcement learning can promote sustainable human behaviour in a common-pool resource problem.*  
   Nature Communications, 16, 980.  
-  [Link](https://doi.org/10.1038/s41467-025-58043-7)
+  [Link](https://doi.org/10.1038/s41467-025-58043-7) 🎧 ~19:16 min (1.5× estimated listening time)
 
 - Tacchetti, A., Köster, R., Balaguer, J., … & Summerfield, C. (2024).  
   *Deep mechanism design: Learning social and economic policies for human benefit.*  
   Proceedings of the National Academy of Sciences.  
-  [Link](https://www.pnas.org/doi/10.1073/pnas.2319949121)
+  [Link](https://www.pnas.org/doi/10.1073/pnas.2319949121) 🎧 ~26:18 min (1.5× estimated listening time)
 
 - Dolgopolov, A. (2024).  
   *Reinforcement learning in a prisoner’s dilemma.*  
   Games and Economic Behavior, 144, 84–103.  
-  [Link](https://doi.org/10.1016/j.geb.2024.01.004)
+  [Link](https://doi.org/10.1016/j.geb.2024.01.004) 🎧 ~32:10 min (1.5× estimated listening time)
 
 - Leibo, J. Z., Zambaldi, V., Lanctot, M., Marecki, J., & Graepel, T. (2017).  
   *Multi-agent reinforcement learning in sequential social dilemmas.*  
   arXiv preprint.  
-  [Link](https://arxiv.org/abs/1702.03037)
+  [Link](https://arxiv.org/abs/1702.03037) 🎧 ~17:27 min (1.5× estimated listening time)
 
 
 ### Optional 
