@@ -6,42 +6,34 @@ Clustering is a general technique for discovering patterns in datasets in an exp
 
 ## 📖 Readings
 
-- von Luxburg, U., Williamson, R. C., & Guyon, I. (2012).
-  *Clustering: Science or Art?*
-  **Proceedings of ICML Workshop on Unsupervised and Transfer Learning,** JMLR: Workshop and Conference Proceedings, 27, 65–79.  
-  [https://proceedings.mlr.press/v27/luxburg12a/luxburg12a.pdf](https://proceedings.mlr.press/v27/luxburg12a/luxburg12a.pdf)
+- von Luxburg, U., Williamson, R. C., & Guyon, I. (2012).  
+  *Clustering: Science or art?*  
+  Proceedings of ICML Workshop on Unsupervised and Transfer Learning, JMLR: Workshop and Conference Proceedings, 27, 65–79.  
+  [Link](https://proceedings.mlr.press/v27/luxburg12a/luxburg12a.pdf)
 
-- Hennig, C. (2015).
-  *What are the true clusters?*
-  **Pattern Recognition Letters**, 64, 53–62.  
-  [https://doi.org/10.1016/j.patrec.2015.04.009](https://doi.org/10.1016/j.patrec.2015.04.009)
+- Hennig, C. (2015).  
+  *What are the true clusters?*  
+  Pattern Recognition Letters, 64, 53–62.  
+  [Link](https://doi.org/10.1016/j.patrec.2015.04.009)
 
-- Montero-Porras, E., Grujić, J., Domingos, E. F., & Lenaerts, T. (2022).
-  *Inferring strategies from observations in long iterated Prisoner’s dilemma experiments.*
-  **Scientific Reports**, 12, 7589.  
-  [https://doi.org/10.1038/s41598-022-11359-w](https://doi.org/10.1038/s41598-022-11359-w)
+- Montero-Porras, E., Grujić, J., Domingos, E. F., & Lenaerts, T. (2022).  
+  *Inferring strategies from observations in long iterated prisoner’s dilemma experiments.*  
+  Scientific Reports, 12, 7589.  
+  [Link](https://doi.org/10.1038/s41598-022-11359-w)
 
-- Petitjean, F., Ketterlin, A., & Gançarski, P. (2011).
-  *A global averaging method for dynamic time warping, with applications to clustering.* **Pattern Recognition**, 44(3), 678–693.  
+- Petitjean, F., Ketterlin, A., & Gançarski, P. (2011).  
+  *A global averaging method for dynamic time warping, with applications to clustering.*  
+  Pattern Recognition, 44(3), 678–693.  
   [Link](https://doi.org/10.1016/j.patcog.2010.09.013)
 
+---
 
-### Optional
+### Optional Readings
 
-- Gerlach, M., Farb, B., Revelle, W., & Nunes Amaral, L. A. (2018).
-  *A robust data-driven approach identifies four personality types across four large data sets.*
-  **Nature Human Behaviour**, 2, 735–742.  
-  [https://doi.org/10.1038/s41562-018-0419-z](https://doi.org/10.1038/s41562-018-0419-z)
+- Gerlach et al. (2018) — [Link](https://doi.org/10.1038/s41562-018-0419-z)  
+- Halkidi et al. (2001) — [Link](https://web.itu.edu.tr/sgunduz/courses/verimaden/paper/validity_survey.pdf)  
+- Wang (2025) — [Link](https://doi.org/10.1007/s11403-025-00451-5)
 
-- Halkidi, M., Batistakis, Y., & Vazirgiannis, M. (2001).
-  *On clustering validation techniques.*
-  **Journal of Intelligent Information Systems**, 17(2–3), 107–145.
-  [https://web.itu.edu.tr/sgunduz/courses/verimaden/paper/validity_survey.pdf](https://web.itu.edu.tr/sgunduz/courses/verimaden/paper/validity_survey.pdf)
-
-- Wang, S. (2025).
-  *Classifying heterogeneous cooperation in social dilemmas: experimental evidence and simulation insights.*
-  **Journal of Economic Interaction and Coordination**, 20, 925–958.  
-  [https://doi.org/10.1007/s11403-025-00451-5](https://doi.org/10.1007/s11403-025-00451-5)
 ---
 
 ## 🔑 Core Concepts
