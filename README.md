@@ -90,7 +90,7 @@ Note: I provide estimated listening times (based on 1.5× playback) for the assi
   
 2. **Discussant Role (graded, 30%)**  
 
-Each student will serve as a discussant for **one of the four core topics**. You will need to sign up for your chosen topic in advance. As a discussant, your responsibilities are:  
+Each student will serve as a discussant for **one of the core readings**. You can sign up for your chosen paper via commenting on the respective open issue. As a discussant, your responsibilities are:  
 
 - **Deep reading**: Work closely with other students assigned to the same topic to read the core paper(s) in depth.  
 - **Critical perspective**: Treat the paper as a baseline for potential future projects. Ask questions such as:  
@@ -100,8 +100,8 @@ Each student will serve as a discussant for **one of the four core topics**. You
 - **Use peer insights**: You may draw on ideas from your classmates’ reading responses, but make sure to clearly acknowledge when a point comes from someone else.  
 - **Facilitate discussion**: Your main goal is to guide the class in understanding the paper and to help generate ideas for replication or extension.  
 - **Preparation for projects**: Think of this role as not just about explaining the paper, but also about setting the stage for potential final projects.  
-- Prepare 3–5 slides synthesizing the paper and peer responses.  
-   - 10-minute presentation + 5 minutes leading discussion with prompts.
+- Prepare a few slides synthesizing the paper and peer responses.  
+   - 12--15-minute presentation + 8--5 minutes leading discussion with prompts.
 
 
 3. **Group Project (70%)**
