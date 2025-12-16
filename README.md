@@ -17,7 +17,7 @@
 |--------|----------|---------------|
 | 09.01. | 2        | [Topic 1: Bias and Fairness in LLMs / VLMs](topic1.md)|
 | 16.01. | 2        | [Topic 2: Social Choice and LLM Alignment](topic3.md)| 
-| 23.01. | 2        | [Topic 3: Reinforcement Learning for Social Dilemma Setting](topic2.md)| |
+| 23.01. | 2        | [Topic 3: Reinforcement Learning for Social Dilemmas](topic2.md)| |
 | 30.01. | 2        | [Topic 4: Finding Patterns in Multidimensional Behavioral Timeseries](topic4.md)| 
 | 06.02. | 1–2      | Project pitches (approx. 20 min per group) |
 | 09.02. | 1        | Code Clinic |
