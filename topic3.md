@@ -78,6 +78,10 @@ Another direction would be to study X’s Community Notes system, which is conse
 https://github.com/twitter/communitynotes  
 https://communitynotes.x.com/guide/en/under-the-hood/download-data
 
+Related Paper: 
+https://arxiv.org/abs/2510.12559
+https://arxiv.org/abs/2509.09956
+https://arxiv.org/abs/2502.13322
 
 ---
 ## References
