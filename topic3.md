@@ -65,7 +65,19 @@ We connect classical social choice theory with human-centered AI, showing how th
 ---
 ## 📊 Project Ideas & Datasets
 
+I see two promising research ideas that address clear gaps in the literature and could contribute to current debates on aggregation and collective evaluation.
+
+1. Aggregation and alignment preferences (PRISM dataset)
+One direction would be to study alignment preferences using the PRISM dataset and compare different aggregation methods (e.g., majority voting, proportional or group-balanced aggregation). A key contribution would be to analyze how these aggregation choices affect outcomes across sociodemographic groups.
+
 https://huggingface.co/datasets/HannahRoseKirk/prism-alignment
+
+2. Aggregation under polarization (X Community Notes)
+Another direction would be to study X’s Community Notes system, which is consensus-oriented: when ratings are polarized, notes tend to disappear. Using the publicly available Community Notes data, one could evaluate alternative aggregation methods and examine how they affect note visibility and stability under polarization.
+
+https://github.com/twitter/communitynotes  
+https://communitynotes.x.com/guide/en/under-the-hood/download-data
+
 
 ---
 ## References
