@@ -43,7 +43,7 @@
 
 ## Slides
 
-- October 24: [slides.com/carinah/methods-in-context-intro](https://slides.com/carinah/methods-in-context-intro)
+[slides.com/carinah/methods-in-context-intro](https://slides.com/carinah/methods-in-context-intro)
 
 
 ## 📖 Course Description
