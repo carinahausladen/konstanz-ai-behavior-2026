@@ -44,7 +44,7 @@
 ## Slides
 
 [slides.com/carinah/methods-in-context-intro](https://slides.com/carinah/methods-in-context-intro)
-
+"esc" will gives you an overview of the slides (works in Safari).
 
 ## 📖 Course Description
 
