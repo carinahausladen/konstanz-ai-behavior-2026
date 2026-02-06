@@ -19,10 +19,10 @@
 | 16.01. | 2        | [Topic 2: Social Choice and LLM Alignment](topic3.md)| 
 | 23.01. | 2        | [Topic 3: Reinforcement Learning for Social Dilemmas](topic2.md)| |
 | 30.01. | 2        | [Topic 4: Finding Patterns in Multidimensional Behavioral Timeseries](topic4.md)| 
-| 06.02. | 1–2      | Project pitches (approx. 20 min per group) |
+| 06.02. | 1        | Project pitches (6+6' per group) |
 | 09.02. | 1        | Code Clinic |
 | 10.02. | 1        | Writing Clinic |
-| 11.02. | 2        | Final project presentations (approx. 45 min per group) |
+| 11.02. | 2        | Final project presentations (20' per group) |
 
 ---
 
