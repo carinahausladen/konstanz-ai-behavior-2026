@@ -104,11 +104,11 @@ Each student will serve as a discussant for **one of the core readings**. You ca
    - 12--15-minute presentation + 8--5 minutes leading discussion with prompts.
 
 
-3. **Group Project (70%)**
+3. **Group Project (20% + 50%)**
 
 The group project is the centerpiece of this course. Its goal is to help you produce a paper-style contribution that strengthens your career profile, whether you aim for academia or industry. You should find a topic that interests you during the semester and think critically about possible extensions. For example, you might replicate an important part of a paper, apply a newer model to an existing dataset, or combine methods we learned in class.  
 
-Your goal is to learn how to produce academic-quality work: clean, open, and reproducible code; clear and expressive figures with strong captions; and precise, concise writing. The paper should be around 8 pages (4,000–8,000 words), written in the style of a research paper, and must include a **Contributions** section describing what each group member did. You should link a GitHub repository with the code you used for the project within the manuscript.  
+Your goal is to learn how to produce academic-quality work: clean, open, and reproducible code; clear and expressive figures with strong captions; and precise, concise writing. The paper should be around 8 pages (4,000–8,000 words), written in the style of a research paper, and (if your work in a group) must include a **Contributions** section describing what each group member did. You should link a **GitHub** repository with the code you used for the project within the manuscript.  
 
 Research ideas improve when they are communicated. Explaining your work to others, through writing and also through slides and presentations, helps you see new angles and deepen your understanding. Presentations are also an opportunity to teach your classmates something valuable.  
 
