@@ -4,7 +4,6 @@ Bias and fairness in machine learning examine how social inequalities and value 
 
 ---
 
-
 ## 📖 Readings
 
 - Gallegos, I. O., Rossi, R. A., Barrow, J., Tanjim, M. M., Kim, S., Dernoncourt, F., Yu, T., Zhang, R., & Ahmed, N. K. (2024).  
@@ -28,123 +27,89 @@ Bias and fairness in machine learning examine how social inequalities and value 
   [Link](https://arxiv.org/abs/2508.07111) 🎧 ~42:00 min (1.5× estimated listening time)
 
 
-### Optional 
-
-- Caliskan et al. (2017) — [Link](https://www.science.org/doi/pdf/10.1126/science.aal4230)  
-- Fiske et al. (2002) — [Link](https://d1wqtxts1xzle7.cloudfront.net/49013872/Warmth_and_Competence_as_Universal_Dimen20160921-3310-1lvtfe0-libre.pdf)  
-- Yang et al. (2024) — [Link](https://ojs.aaai.org/index.php/AIES/article/view/31758)  
-- Radford et al. (2021) — [Link](https://arxiv.org/abs/2103.00020)
-
-
 ---
-
 
 ## 📘 Lecture Notes
 
-### Introduction
-- Bias and fairness in ML explore how social inequalities and value judgments are embedded in algorithms through data, design, and deployment choices.  
-- We will pay particular attention to how to causally measure bias — understanding not only where it appears, but why it arises.
+### Algorithmic Bias: Real Systems Harm Real People
 
-#### Applications Where Bias Occurs
-- Labour market discrimination (e.g., Lakisha & Jamal paper)
-- Predictive policing and "future criminals"
-- Netherlands childcare benefits scandal
-- Biased advertisement exposure
-- COMPAS recidivism prediction system
+Ethics of AI has several aspects, and there are many examples to be named. One particularly impactful example is hiring discrimination, which has deep roots in economic research.
 
-#### Key Concepts
-- The choice of data shapes how ML models define and operationalize concepts.
-- Take a sociotechnical perspective — bias stems from both technical and social systems.
+The literature on hiring discrimination in economics has developed over decades, particularly through **correspondence studies**. The seminal work by [Bertrand and Mullainathan (2004)](https://www.aeaweb.org/articles?id=10.1257/0002828042002561) pioneered a causal approach to measuring hiring discrimination. Their methodology involved sending matched CVs to companies, varying only one characteristic that could be the basis of discrimination—such as age, gender, or race.
 
-#### Discussion Starters
-- Autonomous cars and the trolley problem
-- Should we open-source language models? (Dual-use dilemma)
+Their groundbreaking finding revealed systematic discrimination: 
 
+> Resumes with White-sounding names (like "Emily" and "Greg") received 50% more callbacks than identical resumes with Black-sounding names (like "Lakisha" and "Jamal").
 
-### Operationalising Fairness Criteria
+Similar patterns of bias have now been documented in AI systems. A [2024 Bloomberg investigation](https://www.bloomberg.com/graphics/2024-openai-gpt-hiring-racial-discrimination/) demonstrated that OpenAI's GPT-3.5 exhibits systematic bias in resume ranking based solely on names. When asked to rank identical resumes 1,000 times, GPT showed preference patterns that would fail anti-discrimination benchmarks used to assess job discrimination against protected groups.
+A notable legal case involved age discrimination in AI hiring systems. In [*Mobley v. Workday*](https://edition.cnn.com/2025/05/22/tech/workday-ai-hiring-discrimination-lawsuit), the AI company faced allegations that its hiring assistance system discriminated against older candidates, and prevented people over 40 from getting hired.
+More recently, [LinkedIn launched a hiring assistant](https://business.linkedin.com/hire/hiring-assistant?ss=1) that goes beyond simple CV processing. **Agentic system** not only processes CVs but also analyzes multiple aspects of candidates, writes correspondence to candidates, and manages various stages of the hiring pipeline. 
 
-#### Legal and Ethical Context
-- Fairness principles often originate in legal frameworks.  
-  - Example: In Germany, the General Equal Treatment Act defines anti-discrimination laws.
+### Defining Bias for LLMs
 
-#### Sources of Bias
-- Human bias (e.g., in hiring decisions)
-- Negative feedback loops (e.g., biased police attention)
-- Sample imbalance (minority groups underrepresented)
-- Unreliable data (e.g., inaccurate census data in minority neighborhoods)
+In the next part of the lecture, we explore what bias actually means in the context of Large Language Models and develop the conceptual tools to identify and measure bias in AI systems.
 
-#### Bias Mitigation Across the ML Pipeline
-- Problem definition  
-- Data collection  
-- Model development (focus of most AI research)  
-- Use of predictions in practice  
-- Feedback loops and long-term monitoring  
+#### Fairness Definitions: Two Competing Visions
 
-#### Legal Fairness Frameworks
-- Disparate treatment: Procedural fairness (intentional discrimination)  
-- Disparate impact: Substantive fairness (outcomes regardless of intent)
+In the Workday discrimination case, age was the **protected attribute**—a characteristic that should not form the basis for discriminatory treatment. These typically include age, race, gender, religion, disability status, and national origin.
 
-#### Fairness Criteria and Trade-offs
-- Fairness definitions are mutually exclusive; trade-offs are inevitable:
-  - Independence
-  - Separation
-  - Sufficiency
+But identifying what to protect is only the first step. The harder question is: *how* do we ensure fair treatment?
+**Group Fairness** advocates argue that all demographic groups should have equal success rates. If 50% of 25-year-olds get hired, then 50% of 55-year-olds should too. This perspective prioritizes equal outcomes across groups.
+**Individual Fairness** advocates argue that people with similar qualifications should be treated similarly, regardless of demographics. Someone aged 25 and someone aged 55 with identical skills should receive identical treatment.
+
+These two visions can conflict. A hiring system might achieve group fairness (equal rates across age groups) while failing individual fairness (treating similar candidates differently based on age), or vice versa. **There is no universal right answer.** As citizens, we should actively engage in domain-specific deliberation and make informed collective decisions about which principle to prioritize.
 
 
-### Biases in Natural Language Processing (NLP)
+### The LLM Life-Cycle: Three Entry Points for Bias
 
-#### Illustrative Example
-- Translation bias:  
-  “The doctor called the nurse” → “Der Arzt rief die Krankenschwester” (gender stereotype)
+An interesting example comes from the [**PULSE Controversy**](https://twitter.com/chicken3gg/status/1274314622447820801). PULSE was designed to enhance low-resolution images into high-resolution ones. The problem? When given pixelated images of Black individuals (e.g. Barack Obama), it systematically generated high-resolution images of White faces.
 
-#### Word Embeddings and Representation Bias
-- Early models: Bag-of-Words (word counts)
-- Modern models: Vector representations (e.g., word2vec, GloVe)
-  - Each word represented as a 300-dimensional vector
-  - Trained on large text corpora to predict context words
-- GloVe (Pennington et al., 2014)  
-  - Linear analogies: king - man + woman = queen
-- Bias in Word Embeddings:  
-  - Encodes social stereotypes present in training data  
-  - Reference: https://arxiv.org/abs/1607.06520
+The controversy sparked a heated debate on Twitter among AI researchers: *Where exactly did this bias enter the system?*
 
-#### Why Bias Persists in NLP
-- Models trained on human-generated text inherit human prejudices  
-- Stereotypes reflected in linguistic patterns  
-- Difficult to remove — even for binary gender distinctions  
-- Geometric structure of embeddings retains bias  
-- Complex, multidimensional stereotypes are hard to define or remove
+[Yann LeCun argued](https://twitter.com/ylecun/status/1274782757907030016) it came from the **training data**: PULSE was pre-trained on Flickr-Faces-HQ, a dataset that predominantly contains images of White people. 
 
-#### Best Practices
-- Examine data and model behavior critically  
-- Identify sources of bias  
-- Understand and mitigate their impact
+> If your training set is biased, your model will be biased.
 
-### Fairness and Causality
+Others countered it was **model optimization**: 
 
-#### Simpson’s Paradox
-- Example: Hiring rates differ by department  
-- Paradox: A trend seen in groups reverses when data is aggregated  
-- Conditioning on certain variables can flip conclusions
+> The L2 loss function (minimizing average error) makes everyone look White. If they had used L1 loss (minimizing median error) instead, everyone would look Black. The choice of objective function directly shaped the bias.
 
-#### Causal Inference
-- Goal: Understand why bias appears, not just where it appears  
-- Reference: Judea Pearl, The Book of Why  
-- Confounders: Variables affecting both predictor and outcome (e.g., occupation, pose, dataset source)  
-- Learning causal graphs: Helps separate genuine social bias from context-driven differences
+Still others pointed to **evaluation**: 
 
----
-## 💻 Pratical Part
+> As long as progress is benchmarked on biased data, models will reflect those biases. Without fairness metrics in evaluation, engineers have no signal that something is wrong.
+The uncomfortable truth? **All of the above.** Bias compounds across multiple stages of the ML pipeline.
 
-Implement parts of: Hausladen, C. I., Knott, M., Camerer, C. F., & Perona, P. (2024). *Social perception of faces in a vision-language model.*  [Link](https://dl.acm.org/doi/pdf/10.1145/3715275.3732041)
-  
-### Core Concepts
 
-- CLIP-Embeddings
-- Cosine Similarity
-- Social Perception Theories
-- Causal Operationalization
-- Counterfactual Fairness
+### Five Fairness Desiderata
+
+
+How do we operationalize fairness in large language models? Fairness is not a single switch we can turn on. It is a family of competing desiderata:
+
+
+##### 1) Fairness Through Unawareness
+
+A tempting idea is: *just remove protected attributes from the input.* If the model never sees race or gender (or anything that explicitly signals them), it cannot discriminate — right?
+The problem is that this rarely works in practice. Models can pick up **proxy variables** (names, neighborhoods, jobs, writing style, etc.) that correlate with protected attributes. So [“blindness” can still reproduce biased behavior](https://dl.acm.org/doi/full/10.1145/3757887.3763007), just less transparently.
+
+##### 2) Invariance
+
+Invariance requires that model outputs remain stable when protected attributes are swapped **while everything else is held constant**.
+This mirrors the logic of correspondence studies swap one attribute, see whether outcomes shift.
+How to measure invariance reliably is still an active research area. Recently, [Anthropic suggested](https://alignment.anthropic.com/2026/hot-mess-of-ai/) measuring “incoherence” via a bias–variance decomposition of model error.
+
+##### 3) Equal Social Group Associations
+
+This desideratum targets *associations* in model outputs: neutral attributes (e.g., “intelligent,” “competent,” “leader”) should not be disproportionately linked to one social group over another.
+Why care? Because humans often carry implicit race–status associations (RSAs) that link some groups with higher status than others — and these [associations predict downstream judgments](https://psycnet.apa.org/manuscript/2020-66288-001.pdf).
+
+##### 4) Equal Neutral Associations
+
+Under this principle, protected attribute terms (e.g., “he” vs. “she”) should appear with equal likelihood **in neutral contexts**.
+In other words: when the prompt does not contain group-relevant information, the model should not systematically default to one group term over another. 
+
+##### 5) Replicated Distributions
+
+This approach demands that model outputs mirror **reference dataset distributions** for neutral elements across groups, preventing the invention of new disparities.
 
 ---
 
@@ -154,6 +119,12 @@ Implement parts of: Hausladen, C. I., Knott, M., Camerer, C. F., & Perona, P. (2
 - Hiring Discrimination by Agentic AI (e.g. LinkedIn's new [Hiring Assistant](https://business.linkedin.com/talent-solutions/hiring-assistant?trk=leader)
 
 ---
-## Reference
-This lecture was insipred by [CS 281 - Spring 2025](https://stanfordaiethics.github.io/syllabus.html).
+
+## 📚 References
+
+[^1]: Bertrand, M., & Mullainathan, S. (2004). Are Emily and Greg More Employable than Lakisha and Jamal? A Field Experiment on Labor Market Discrimination. *American Economic Review*, 94(4), 991-1013. https://doi.org/10.1257/0002828042002561
+
+[^2]: Yin, L., Alba, D., & Nicoletti, L. (2024, March 8). OpenAI's GPT Is a Recruiter's Dream Tool. Tests Show There's Racial Bias. *Bloomberg*. https://www.bloomberg.com/graphics/2024-openai-gpt-hiring-racial-discrimination/
+
+An interesting related lecture: [CS 281 - Spring 2025](https://stanfordaiethics.github.io/syllabus.html).
 
