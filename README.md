@@ -71,7 +71,12 @@ By the end of the course, students will be able to:
 ### Research-Based Transfer
 - Interpret research findings in light of broader debates on fairness, alignment, and social choice in AI.  
 - Communicate results effectively through presentations and writing, connecting technical insights to societal and ethical implications.  
+---
 
+## 🎤 Guest Lectures
+- Jan 23: [Joshua C Yang](https://www.joshuacyang.com)
+- Jan 30: [Daimian Dailisan](https://damiandailisan.com)
+- Jan 30: [Javier Argota Sánchez-Vaquerizo](https://www.linkedin.com/in/javierargota)
 ---
 
 ## 📊 Activities & Assessment
