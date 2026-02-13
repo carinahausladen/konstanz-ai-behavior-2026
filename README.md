@@ -43,7 +43,7 @@
 
 ## Slides
 
-[slides.com/carinah/methods-in-context-intro](https://slides.com/carinah/methods-in-context-intro)
+[slides.com/carinah/ai_society_human_behavior](https://slides.com/carinah/ai_society_human_behavior)
 ("esc" will give you a better overview of the slides)
 
 ## 📖 Course Description
